@@ -57,9 +57,13 @@ body{
 	width: 16px;
 	height: 16px;
 	margin-right: 5px;
+	
+	
 }
 
 #enter-facebook a{
+
+	cursor: pointer;
 	text-decoration: none;
 	padding: 95px;
 	color: #385185;
